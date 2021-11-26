@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228134715330",
+    "project_id": "lamarkerja",
+    "storage_bucket": "lamarkerja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228134715330:android:216dd07d0b85855531605b",
+        "android_client_info": {
+          "package_name": "com.example.loginflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228134715330-vgoruaomim7kii6qa7a3r66kda29eksm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginflutter",
+            "certificate_hash": "c6934d014e2a230b54c4ee65bb8c921b4c8420ae"
+          }
+        },
+        {
+          "client_id": "228134715330-qqk7d6lqo98gr9la8jmos4l539ffnr4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_p09r99fpr14L0hLTa6ZvfuCWK8rJuPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228134715330-qqk7d6lqo98gr9la8jmos4l539ffnr4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
